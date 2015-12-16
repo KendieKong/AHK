@@ -1,1 +1,3 @@
 # AHK
+send something
+return
